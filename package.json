@@ -5,18 +5,16 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "get-all": "node src/scripts/getAllContacts",
-    "generate": "node src/scripts/generateContacts.js",
-    "add-one": "node src/scripts/addOneContact.js",
-    "count": "node src/scripts/countContacts.js",
-    "remove-last": "node src/scripts/removeLastContact.js",
-    "remove-all": "node src/scripts/removeAllContacts.js"
+    "get-products-by-min-price": "node src/scripts/getProductsByMinPrice.js",
+    "get-unique-categories": "node src/scripts/getUniqueCategories.js",
+    "group-products": "node src/scripts/groupProductsByCategories.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.2.0",
+    "@faker-js/faker": "^9.9.0",
     "eslint": "^9.2.0",
     "globals": "^15.1.0"
   }

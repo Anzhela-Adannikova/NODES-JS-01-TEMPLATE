@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Recycled Plastic Tuna",
+    "price": "682.00",
+    "category": "Computers",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+  },
+  {
+    "name": "Fantastic Fresh Ball",
+    "price": "897.00",
+    "category": "Computers",
+    "description": "The Football Is Good For Training And Recreational Purposes"
+  },
+  {
+    "name": "Licensed Cotton Cheese",
+    "price": "886.00",
+    "category": "Tools",
+    "description": "Ergonomic execu"
+  }
+]
