@@ -2,19 +2,51 @@
   {
     "name": "Recycled Plastic Tuna",
     "price": "682.00",
-    "category": "Computers",
-    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+    "category": "Computers"
   },
   {
     "name": "Fantastic Fresh Ball",
     "price": "897.00",
-    "category": "Computers",
-    "description": "The Football Is Good For Training And Recreational Purposes"
+    "category": "Computers"
   },
   {
     "name": "Licensed Cotton Cheese",
     "price": "886.00",
-    "category": "Tools",
-    "description": "Ergonomic execu"
+    "category": "Tools"
+  },
+  {
+    "name": "Generic Wooden Tuna",
+    "price": "405.85",
+    "category": "Games"
+  },
+  {
+    "name": "Frozen Cotton Chair",
+    "price": "723.40",
+    "category": "Books"
+  },
+  {
+    "name": "Incredible Steel Soap",
+    "price": "182.40",
+    "category": "Sports"
+  },
+  {
+    "name": "Awesome Bronze Sausages",
+    "price": "743.63",
+    "category": "Jewelry"
+  },
+  {
+    "name": "Small Silk Cheese",
+    "price": "492.19",
+    "category": "Movies"
+  },
+  {
+    "name": "Unbranded Metal Keyboard",
+    "price": "129.99",
+    "category": "Tools"
+  },
+  {
+    "name": "Licensed Rubber Car",
+    "price": "294.05",
+    "category": "Electronics"
   }
 ]
